@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8ccf550ad84534aa6b7c369d0186d197, type: 3}
+  m_Name: Node9
+  m_EditorClassIdentifier: 
+  NodeId: n9
+  SpeakerName: Knight
+  DialogueText: "As you re-enter the room, you see the knight is still slumped over
+    how you left them. As you draw near, you place the sword in their hands. \u201CI-is
+    this what I think it is?\u201D Yes, brave knight. I hoped returning it might
+    lift your burdens the smallest amount. As the knight's grip tightened on the
+    blade, the boiling curses surrounding their form seemed to writhe, like worms
+    under the hot sun. Slowly, they retreat into the walls of the antechamber. \u201CI
+    can return home with this, stranger. You have done me an impossible service today.
+    I swear to you to return this kindness, and pass it forward.\u201D The knight
+    struggles to their feet, and towards the entrance threshold you yourself crossed
+    only moments ago. As they pass out of view, you see the curses covering the leftmost
+    tunnel have cleared, allowing a new way forward. "
+  Choices:
+  - ChoiceText: Continue forward
+    NextNodeId: Node2
+    ReloadScene: 0
+    RequiredFlags: []
+    ForbiddenFlags: []
+    GrantFlags: []

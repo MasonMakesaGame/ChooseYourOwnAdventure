@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8ccf550ad84534aa6b7c369d0186d197, type: 3}
+  m_Name: Node10
+  m_EditorClassIdentifier: 
+  NodeId: n10
+  SpeakerName: narrator
+  DialogueText: "As you emerge from the tunnel, it takes a moment for your eyes to
+    adjust to the darkness. Any remnants of light that may have leaked from the knight's
+    hovel have dissipated. As your vision clears, you scan the room for anything
+    identifiable. Those same twisted rooms seem to have grown even more human-like.
+    In a few, you swear you can see eyes. There is only one tunnel forward, and trailing
+    out of that tunnel you see loose, dirty feathers. \n"
+  Choices:
+  - ChoiceText: Follow the feathers forward
+    NextNodeId: Node11
+    ReloadScene: 0
+    RequiredFlags: []
+    ForbiddenFlags: []
+    GrantFlags: []

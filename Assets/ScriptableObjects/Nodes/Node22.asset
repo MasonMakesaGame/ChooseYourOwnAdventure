@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8ccf550ad84534aa6b7c369d0186d197, type: 3}
+  m_Name: Node22
+  m_EditorClassIdentifier: 
+  NodeId: n22
+  SpeakerName: Heap
+  DialogueText: 'I am that place, little one. I fell here long ago, wings broken,
+    halo aflame. I saw your hate, and thought if I could help you all hold it my
+    creator might bring me home. But they have been silent, and the weight has grown
+    so heavy. You saw a fraction of the other souls who call this hovel home. They
+    were broken, and found comfort in my familiar fracture. '
+  Choices:
+  - ChoiceText: I was able to help those other souls, maybe I could help you
+    NextNodeId: Node23
+    ReloadScene: 0
+    RequiredFlags: []
+    ForbiddenFlags: []
+    GrantFlags: []

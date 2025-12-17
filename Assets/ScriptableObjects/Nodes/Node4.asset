@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8ccf550ad84534aa6b7c369d0186d197, type: 3}
+  m_Name: Node4
+  m_EditorClassIdentifier: 
+  NodeId: n4
+  SpeakerName: Knight
+  DialogueText: "As you draw near the knight, you see the subtle rise and fall of
+    their breastplate. They're still alive. From between the gaps in the armour inky
+    tendrils of curse boil forth, and tunnel into the walls and floor around the
+    poor creature. You can see, in the dim light of the weakening candles, that these
+    tendrils are escaping from the flesh itself, covering the knights very eyes.
+    \n\u201CH-hello? Is someone there? I\u2019m s-sorrr-ry, I suppose my eyes must
+    be closed, I can\u2019t see you. I know you're there though. What has happened
+    to you, brave knight? I f-f-faile-d, like ev-veryone said that I would. As you
+    hear them continue to speak, it becomes clear that the tendrils have worked their
+    way into the throat, and deeper still. I thought i-if I could get it back, then
+    all would be well. I came so close. What were you here for? It seems so small
+    now. So, so small. A family sword. Lost here, so long ago. It's just past here,
+    I know. And yet, I know I\u2019ve found my place here, in this little corner.
+    To think I thought to be more. So, so small. They seem to slip away again, not
+    quite asleep, not quite dead."
+  Choices:
+  - ChoiceText: Try to rouse them
+    NextNodeId: Node5
+    ReloadScene: 0
+    RequiredFlags: []
+    ForbiddenFlags: []
+    GrantFlags: []
+  - ChoiceText: Carry on forward
+    NextNodeId: Node6
+    ReloadScene: 0
+    RequiredFlags: []
+    ForbiddenFlags: []
+    GrantFlags: []

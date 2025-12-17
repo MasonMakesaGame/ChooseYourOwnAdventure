@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8ccf550ad84534aa6b7c369d0186d197, type: 3}
+  m_Name: Node17
+  m_EditorClassIdentifier: 
+  NodeId: n17
+  SpeakerName: narrator
+  DialogueText: "As you squeeze free from what you feel may be your final tunnel,
+    the first thing you notice is the smell. Your mind plunges into a memory of when
+    your father showed you your castle\u2019s oubliette. A completely unique smell,
+    the combination of rot, dust and dank stone. The smell of something long and
+    cruelly forgotten. Something still lingering. A new texture covers the walls
+    you can see. No more leering root faces, but not quite dirt or rock. Something
+    almost membranous. Before you lies your goal. A ruined body, an obelisk of flesh.
+    Vertebral structures covered in blind, leaking eyes trace the length of the structure,
+    culminating in a spinous crown atop a blasphemous head. The beings form seems
+    to be fused into the antechambers walls, stretched and pocked."
+  Choices:
+  - ChoiceText: Address the being
+    NextNodeId: Node18
+    ReloadScene: 0
+    RequiredFlags: []
+    ForbiddenFlags: []
+    GrantFlags: []
