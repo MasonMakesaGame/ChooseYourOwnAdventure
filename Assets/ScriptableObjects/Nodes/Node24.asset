@@ -19,13 +19,13 @@ MonoBehaviour:
     place. To the side of the mass, a new tunnel opens wide, curving upwards.
   Choices:
   - ChoiceText: Place the feather at the base of the heap
-    NextNodeId: Node27
+    NextNodeId: n27
     ReloadScene: 0
     RequiredFlags: []
     ForbiddenFlags: []
     GrantFlags: []
   - ChoiceText: Enter into the newly opened tunnel
-    NextNodeId: Node26
+    NextNodeId: n26
     ReloadScene: 0
     RequiredFlags: []
     ForbiddenFlags: []

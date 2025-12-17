@@ -21,7 +21,7 @@ MonoBehaviour:
     were broken, and found comfort in my familiar fracture. '
   Choices:
   - ChoiceText: I was able to help those other souls, maybe I could help you
-    NextNodeId: Node23
+    NextNodeId: n23
     ReloadScene: 0
     RequiredFlags: []
     ForbiddenFlags: []

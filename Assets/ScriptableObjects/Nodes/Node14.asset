@@ -20,7 +20,7 @@ MonoBehaviour:
     out is a small silver idol, wrapped in cloth. '
   Choices:
   - ChoiceText: Retrieve the idol, and return
-    NextNodeId: Node13
+    NextNodeId: n13
     ReloadScene: 0
     RequiredFlags: []
     ForbiddenFlags: []

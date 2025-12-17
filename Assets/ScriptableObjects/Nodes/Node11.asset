@@ -20,13 +20,13 @@ MonoBehaviour:
     a Wylderborn, beings known for their habit of collecting curses.
   Choices:
   - ChoiceText: Speak to the wylderborn
-    NextNodeId: Node13
+    NextNodeId: n13
     ReloadScene: 0
     RequiredFlags: []
     ForbiddenFlags: []
     GrantFlags: []
   - ChoiceText: Carry on forward
-    NextNodeId: Node12
+    NextNodeId: n12
     ReloadScene: 0
     RequiredFlags: []
     ForbiddenFlags: []

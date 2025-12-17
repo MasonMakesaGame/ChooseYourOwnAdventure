@@ -17,13 +17,13 @@ MonoBehaviour:
   DialogueText: What drives you so, to disturb this shattered heap?
   Choices:
   - ChoiceText: The end of you, Demiurge
-    NextNodeId: Node19
+    NextNodeId: n19
     ReloadScene: 0
     RequiredFlags: []
     ForbiddenFlags: []
     GrantFlags: []
   - ChoiceText: The end of the curses plaguing the realm
-    NextNodeId: Node20
+    NextNodeId: n20
     ReloadScene: 0
     RequiredFlags: []
     ForbiddenFlags: []

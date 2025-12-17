@@ -26,7 +26,7 @@ MonoBehaviour:
     to be fused into the antechambers walls, stretched and pocked."
   Choices:
   - ChoiceText: Address the being
-    NextNodeId: Node18
+    NextNodeId: n18
     ReloadScene: 0
     RequiredFlags: []
     ForbiddenFlags: []

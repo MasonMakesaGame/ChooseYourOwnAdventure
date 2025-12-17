@@ -18,13 +18,13 @@ MonoBehaviour:
     yourself at a fork. Neither tunnel seems to hint at the true way forward.
   Choices:
   - ChoiceText: Take the tunnel on the left
-    NextNodeId: Node14
+    NextNodeId: n14
     ReloadScene: 0
     RequiredFlags: []
     ForbiddenFlags: []
     GrantFlags: []
   - ChoiceText: Take the tunnel on the right
-    NextNodeId: Node15
+    NextNodeId: n15
     ReloadScene: 0
     RequiredFlags: []
     ForbiddenFlags: []

@@ -31,13 +31,13 @@ MonoBehaviour:
     quite asleep, not quite dead."
   Choices:
   - ChoiceText: Try to rouse them
-    NextNodeId: Node5
+    NextNodeId: n5
     ReloadScene: 0
     RequiredFlags: []
     ForbiddenFlags: []
     GrantFlags: []
   - ChoiceText: Carry on forward
-    NextNodeId: Node6
+    NextNodeId: n6
     ReloadScene: 0
     RequiredFlags: []
     ForbiddenFlags: []

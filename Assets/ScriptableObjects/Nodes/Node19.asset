@@ -19,7 +19,7 @@ MonoBehaviour:
     you think it to serve?
   Choices:
   - ChoiceText: A cleansing of these lands, MY lands
-    NextNodeId: Node21
+    NextNodeId: n21
     ReloadScene: 0
     RequiredFlags: []
     ForbiddenFlags: []

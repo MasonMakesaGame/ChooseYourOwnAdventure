@@ -20,7 +20,7 @@ MonoBehaviour:
     it."
   Choices:
   - ChoiceText: How can you know these things?
-    NextNodeId: Node22
+    NextNodeId: n22
     ReloadScene: 0
     RequiredFlags: []
     ForbiddenFlags: []

@@ -17,7 +17,7 @@ MonoBehaviour:
   DialogueText: And how would you do this for me?
   Choices:
   - ChoiceText: Place the feather at the base of the heap
-    NextNodeId: Node27
+    NextNodeId: n27
     ReloadScene: 0
     RequiredFlags: []
     ForbiddenFlags: []

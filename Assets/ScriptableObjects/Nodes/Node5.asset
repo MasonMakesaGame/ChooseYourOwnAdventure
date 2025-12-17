@@ -17,7 +17,7 @@ MonoBehaviour:
   DialogueText: They remain silent.
   Choices:
   - ChoiceText: Leave
-    NextNodeId: Node6
+    NextNodeId: n6
     ReloadScene: 0
     RequiredFlags: []
     ForbiddenFlags: []

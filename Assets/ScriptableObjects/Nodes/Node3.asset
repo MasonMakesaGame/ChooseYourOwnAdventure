@@ -19,7 +19,7 @@ MonoBehaviour:
     into. Perhaps if the curses were thinned by a measure, you could try to enter. '
   Choices:
   - ChoiceText: Leave
-    NextNodeId: Node1
+    NextNodeId: n1
     ReloadScene: 0
     RequiredFlags: []
     ForbiddenFlags: []

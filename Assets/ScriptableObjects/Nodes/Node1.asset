@@ -22,13 +22,13 @@ MonoBehaviour:
     form a rough pathway forward.  "
   Choices:
   - ChoiceText: Go to front entrance
-    NextNodeId: Node2
+    NextNodeId: n2
     ReloadScene: 0
     RequiredFlags: []
     ForbiddenFlags: []
     GrantFlags: []
   - ChoiceText: Go to side entrance
-    NextNodeId: Node3
+    NextNodeId: n3
     ReloadScene: 0
     RequiredFlags: []
     ForbiddenFlags: []

@@ -19,14 +19,14 @@ MonoBehaviour:
     seems to slow, its tremorous movements coming to a halt. '
   Choices:
   - ChoiceText: Yank your hand free
-    NextNodeId: Node15
+    NextNodeId: n15
     ReloadScene: 0
     RequiredFlags: []
     ForbiddenFlags: []
     GrantFlags:
     - rude_person
   - ChoiceText: Keep your hand still for a moment
-    NextNodeId: Node15
+    NextNodeId: n15
     ReloadScene: 0
     RequiredFlags: []
     ForbiddenFlags: []

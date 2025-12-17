@@ -27,7 +27,7 @@ MonoBehaviour:
     tunnel have cleared, allowing a new way forward. "
   Choices:
   - ChoiceText: Continue forward
-    NextNodeId: Node2
+    NextNodeId: n2
     ReloadScene: 0
     RequiredFlags: []
     ForbiddenFlags: []

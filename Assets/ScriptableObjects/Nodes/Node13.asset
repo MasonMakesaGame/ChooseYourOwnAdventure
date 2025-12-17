@@ -21,13 +21,13 @@ MonoBehaviour:
     without another word. "
   Choices:
   - ChoiceText: Carry on forward
-    NextNodeId: Node12
+    NextNodeId: n12
     ReloadScene: 0
     RequiredFlags: []
     ForbiddenFlags: []
     GrantFlags: []
   - ChoiceText: Place the idol in its hands
-    NextNodeId: Node16
+    NextNodeId: n16
     ReloadScene: 0
     RequiredFlags:
     - have_idol

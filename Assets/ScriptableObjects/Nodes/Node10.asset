@@ -22,7 +22,7 @@ MonoBehaviour:
     out of that tunnel you see loose, dirty feathers. \n"
   Choices:
   - ChoiceText: Follow the feathers forward
-    NextNodeId: Node11
+    NextNodeId: n11
     ReloadScene: 0
     RequiredFlags: []
     ForbiddenFlags: []

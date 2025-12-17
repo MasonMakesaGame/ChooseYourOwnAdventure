@@ -22,7 +22,7 @@ MonoBehaviour:
     far far too old. Another adventurer, lost to mud and the dark. THE END."
   Choices:
   - ChoiceText: Try Again
-    NextNodeId: Node1
+    NextNodeId: n1
     ReloadScene: 1
     RequiredFlags: []
     ForbiddenFlags: []

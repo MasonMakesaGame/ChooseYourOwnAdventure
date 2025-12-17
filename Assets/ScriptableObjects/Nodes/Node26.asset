@@ -19,7 +19,7 @@ MonoBehaviour:
     appears unchanged. You trudge forward, back to your home, your keep.
   Choices:
   - ChoiceText: Try Again
-    NextNodeId: Node1
+    NextNodeId: n1
     ReloadScene: 1
     RequiredFlags: []
     ForbiddenFlags: []

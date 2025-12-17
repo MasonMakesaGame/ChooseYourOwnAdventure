@@ -17,13 +17,13 @@ MonoBehaviour:
   DialogueText: 'Pray tell, how did you help these souls, little one? '
   Choices:
   - ChoiceText: They all just needed a little help
-    NextNodeId: Node25
+    NextNodeId: n25
     ReloadScene: 0
     RequiredFlags: []
     ForbiddenFlags: []
     GrantFlags: []
   - ChoiceText: I chanted an incantation, and banished the curses from them!
-    NextNodeId: Node24
+    NextNodeId: n24
     ReloadScene: 0
     RequiredFlags: []
     ForbiddenFlags: []

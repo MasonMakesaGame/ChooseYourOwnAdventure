@@ -23,7 +23,7 @@ MonoBehaviour:
     a singular large white feather. It exudes a sense of deep, old power.
   Choices:
   - ChoiceText: Attempt to pass the roots
-    NextNodeId: Node17
+    NextNodeId: n17
     ReloadScene: 0
     RequiredFlags:
     - helped_knight
@@ -31,14 +31,14 @@ MonoBehaviour:
     ForbiddenFlags: []
     GrantFlags: []
   - ChoiceText: Grab the feather
-    NextNodeId: Node15
+    NextNodeId: n15
     ReloadScene: 0
     RequiredFlags: []
     ForbiddenFlags: []
     GrantFlags:
     - have_feather
   - ChoiceText: You are missing something, return
-    NextNodeId: Node11
+    NextNodeId: n11
     ReloadScene: 0
     RequiredFlags: []
     ForbiddenFlags: []

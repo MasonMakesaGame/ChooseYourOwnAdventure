@@ -27,7 +27,7 @@ MonoBehaviour:
     is a soft, relieved smile. "
   Choices:
   - ChoiceText: Try Again
-    NextNodeId: Node1
+    NextNodeId: n1
     ReloadScene: 1
     RequiredFlags: []
     ForbiddenFlags: []

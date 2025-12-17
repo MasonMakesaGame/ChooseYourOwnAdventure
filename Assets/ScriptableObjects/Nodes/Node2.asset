@@ -25,20 +25,20 @@ MonoBehaviour:
     from the knight.
   Choices:
   - ChoiceText: Speak to the knight
-    NextNodeId: Node4
+    NextNodeId: n4
     ReloadScene: 0
     RequiredFlags: []
     ForbiddenFlags: []
     GrantFlags:
     - spoken_to_knight
   - ChoiceText: Take the right tunnel forward
-    NextNodeId: Node6
+    NextNodeId: n6
     ReloadScene: 0
     RequiredFlags: []
     ForbiddenFlags: []
     GrantFlags: []
   - ChoiceText: Take the left tunnel forward
-    NextNodeId: Node10
+    NextNodeId: n10
     ReloadScene: 0
     RequiredFlags:
     - helped_knight

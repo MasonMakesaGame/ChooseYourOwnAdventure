@@ -19,14 +19,14 @@ MonoBehaviour:
     the wall. "
   Choices:
   - ChoiceText: Check the alcove
-    NextNodeId: Node8
+    NextNodeId: n8
     ReloadScene: 0
     RequiredFlags:
     - spoken_to_knight
     ForbiddenFlags: []
     GrantFlags: []
   - ChoiceText: You are missing something, return
-    NextNodeId: Node2
+    NextNodeId: n2
     ReloadScene: 0
     RequiredFlags: []
     ForbiddenFlags: []

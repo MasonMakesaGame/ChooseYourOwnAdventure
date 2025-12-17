@@ -19,7 +19,7 @@ MonoBehaviour:
     a deep darkness behind them, with the subtlest glint of steel.
   Choices:
   - ChoiceText: Grab the sword, and return to the knight
-    NextNodeId: Node9
+    NextNodeId: n9
     ReloadScene: 0
     RequiredFlags: []
     ForbiddenFlags: []

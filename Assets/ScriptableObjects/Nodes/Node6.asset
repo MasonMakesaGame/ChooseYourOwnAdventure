@@ -23,7 +23,7 @@ MonoBehaviour:
     forward. '
   Choices:
   - ChoiceText: Carry on forward
-    NextNodeId: Node7
+    NextNodeId: n7
     ReloadScene: 0
     RequiredFlags: []
     ForbiddenFlags: []
