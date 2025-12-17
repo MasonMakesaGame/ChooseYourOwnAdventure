@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Node1
   m_EditorClassIdentifier: 
   NodeId: n1
-  SpeakerName: narrator
+  SpeakerName: Narrator
   DialogueText: "Finally, you\u2019ve made it. After weeks of travel, you\u2019ve
     reached your goal, the Warrens. Before you, you see the entrance. A gaping hole
     in the earth, a wound leaking ichorous curses across the land. As you peer into

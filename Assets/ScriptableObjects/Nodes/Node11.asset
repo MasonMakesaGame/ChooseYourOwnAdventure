@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Node11
   m_EditorClassIdentifier: 
   NodeId: n11
-  SpeakerName: narrator
+  SpeakerName: Narrator
   DialogueText: This new room is much smaller than any before it. A pulsing heat
     seems to emanate from the walls. Before you lies another tunnel forward, and
     laying tucked into another small alcove you see a small feathered shape. It's

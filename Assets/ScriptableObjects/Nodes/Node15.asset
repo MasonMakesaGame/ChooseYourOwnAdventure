@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Node15
   m_EditorClassIdentifier: 
   NodeId: n15
-  SpeakerName: narrator
+  SpeakerName: Narrator
   DialogueText: Exiting the tunnel, you nearly have to yank yourself free, the dirt
     having closed so tight to your body. As you fall from the tunnel, your eyes land
     on the twisting roots around you. Mere inches from you, a face. Seemingly made

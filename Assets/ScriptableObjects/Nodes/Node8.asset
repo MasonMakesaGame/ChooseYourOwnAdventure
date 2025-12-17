@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Node8
   m_EditorClassIdentifier: 
   NodeId: n8
-  SpeakerName: narrator
+  SpeakerName: Narrator
   DialogueText: As you move to investigate the irregularity, you see that it is much
     deeper than you thought. Despite the thick overgrowth of curses, you can see
     a deep darkness behind them, with the subtlest glint of steel.

@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Node17
   m_EditorClassIdentifier: 
   NodeId: n17
-  SpeakerName: narrator
+  SpeakerName: Narrator
   DialogueText: "As you squeeze free from what you feel may be your final tunnel,
     the first thing you notice is the smell. Your mind plunges into a memory of when
     your father showed you your castle\u2019s oubliette. A completely unique smell,

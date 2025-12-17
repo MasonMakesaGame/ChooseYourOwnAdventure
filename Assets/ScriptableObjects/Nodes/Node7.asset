@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Node7
   m_EditorClassIdentifier: 
   NodeId: n7
-  SpeakerName: narrator
+  SpeakerName: Narrator
   DialogueText: "This room seems incredibly similar to the last. The swirling in
     your head hasn\u2019t slowed. Scanning the room, you notice an irregularity in
     the wall. "

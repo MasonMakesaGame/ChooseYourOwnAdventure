@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Node16
   m_EditorClassIdentifier: 
   NodeId: n16
-  SpeakerName: narrator
+  SpeakerName: Narrator
   DialogueText: 'As you press the idol into the small creature''s chest, it stirs
     briefly, wrapping its hands around the idol and your wrist. Its panicked breathing
     seems to slow, its tremorous movements coming to a halt. '

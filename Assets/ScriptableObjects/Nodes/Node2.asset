@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Node2
   m_EditorClassIdentifier: 
   NodeId: n2
-  SpeakerName: narrator
+  SpeakerName: Narrator
   DialogueText: As you find yourself slipping free of the tunnel, you cast your eyes
     to the small excavation you find yourself in. Small remnants of civilization
     litter the room. You see candles in hand scraped alcoves, a pile of dusty books,

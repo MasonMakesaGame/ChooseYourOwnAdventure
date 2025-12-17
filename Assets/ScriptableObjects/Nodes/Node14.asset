@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Node14
   m_EditorClassIdentifier: 
   NodeId: n14
-  SpeakerName: narrator
+  SpeakerName: Narrator
   DialogueText: 'As you come to the end of the tunnel, You feel the slightest loosening
     in the dirt around you. A little more breathing room. The tunnel dead ends in
     front of you. You catch a small glint from the dirt in front of you. Peaking

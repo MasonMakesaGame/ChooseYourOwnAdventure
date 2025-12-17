@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Node10
   m_EditorClassIdentifier: 
   NodeId: n10
-  SpeakerName: narrator
+  SpeakerName: Narrator
   DialogueText: "As you emerge from the tunnel, it takes a moment for your eyes to
     adjust to the darkness. Any remnants of light that may have leaked from the knight's
     hovel have dissipated. As your vision clears, you scan the room for anything

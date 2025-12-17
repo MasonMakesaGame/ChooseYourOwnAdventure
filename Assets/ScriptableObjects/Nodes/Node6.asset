@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Node6
   m_EditorClassIdentifier: 
   NodeId: n6
-  SpeakerName: narrator
+  SpeakerName: Narrator
   DialogueText: 'As you emerge from the tunnel, you find yourself in a small antechamber,
     similarly sized to the one you just left. There are no small pieces of human
     comfort here, only damp bloody dirt and twisting roots. Evidence of the knights''

@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Node12
   m_EditorClassIdentifier: 
   NodeId: n12
-  SpeakerName: narrator
+  SpeakerName: Narrator
   DialogueText: As you drag yourself through the ever-tightening tunnels, you find
     yourself at a fork. Neither tunnel seems to hint at the true way forward.
   Choices:

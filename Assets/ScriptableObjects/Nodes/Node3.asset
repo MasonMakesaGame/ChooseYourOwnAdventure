@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Node3
   m_EditorClassIdentifier: 
   NodeId: n3
-  SpeakerName: narrator
+  SpeakerName: Narrator
   DialogueText: 'Out of the corner of your eye, you see a smaller tunnel, almost
     completely overgrown with dripping curses. It is too crowded to consider fitting
     into. Perhaps if the curses were thinned by a measure, you could try to enter. '
